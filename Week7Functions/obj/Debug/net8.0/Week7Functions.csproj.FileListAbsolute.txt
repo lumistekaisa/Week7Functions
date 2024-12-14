@@ -1,0 +1,14 @@
+C:\Users\kaisa\source\repos\Week7Functions\Week7Functions\bin\Debug\net8.0\Week7Functions.exe
+C:\Users\kaisa\source\repos\Week7Functions\Week7Functions\bin\Debug\net8.0\Week7Functions.deps.json
+C:\Users\kaisa\source\repos\Week7Functions\Week7Functions\bin\Debug\net8.0\Week7Functions.runtimeconfig.json
+C:\Users\kaisa\source\repos\Week7Functions\Week7Functions\bin\Debug\net8.0\Week7Functions.dll
+C:\Users\kaisa\source\repos\Week7Functions\Week7Functions\bin\Debug\net8.0\Week7Functions.pdb
+C:\Users\kaisa\source\repos\Week7Functions\Week7Functions\obj\Debug\net8.0\Week7Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaisa\source\repos\Week7Functions\Week7Functions\obj\Debug\net8.0\Week7Functions.AssemblyInfoInputs.cache
+C:\Users\kaisa\source\repos\Week7Functions\Week7Functions\obj\Debug\net8.0\Week7Functions.AssemblyInfo.cs
+C:\Users\kaisa\source\repos\Week7Functions\Week7Functions\obj\Debug\net8.0\Week7Functions.csproj.CoreCompileInputs.cache
+C:\Users\kaisa\source\repos\Week7Functions\Week7Functions\obj\Debug\net8.0\Week7Functions.dll
+C:\Users\kaisa\source\repos\Week7Functions\Week7Functions\obj\Debug\net8.0\refint\Week7Functions.dll
+C:\Users\kaisa\source\repos\Week7Functions\Week7Functions\obj\Debug\net8.0\Week7Functions.pdb
+C:\Users\kaisa\source\repos\Week7Functions\Week7Functions\obj\Debug\net8.0\Week7Functions.genruntimeconfig.cache
+C:\Users\kaisa\source\repos\Week7Functions\Week7Functions\obj\Debug\net8.0\ref\Week7Functions.dll

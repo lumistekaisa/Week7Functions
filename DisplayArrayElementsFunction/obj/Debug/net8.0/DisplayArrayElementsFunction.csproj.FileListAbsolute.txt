@@ -1,0 +1,14 @@
+C:\Users\kaisa\source\repos\Week7Functions\DisplayArrayElementsFunction\bin\Debug\net8.0\DisplayArrayElementsFunction.exe
+C:\Users\kaisa\source\repos\Week7Functions\DisplayArrayElementsFunction\bin\Debug\net8.0\DisplayArrayElementsFunction.deps.json
+C:\Users\kaisa\source\repos\Week7Functions\DisplayArrayElementsFunction\bin\Debug\net8.0\DisplayArrayElementsFunction.runtimeconfig.json
+C:\Users\kaisa\source\repos\Week7Functions\DisplayArrayElementsFunction\bin\Debug\net8.0\DisplayArrayElementsFunction.dll
+C:\Users\kaisa\source\repos\Week7Functions\DisplayArrayElementsFunction\bin\Debug\net8.0\DisplayArrayElementsFunction.pdb
+C:\Users\kaisa\source\repos\Week7Functions\DisplayArrayElementsFunction\obj\Debug\net8.0\DisplayArrayElementsFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaisa\source\repos\Week7Functions\DisplayArrayElementsFunction\obj\Debug\net8.0\DisplayArrayElementsFunction.AssemblyInfoInputs.cache
+C:\Users\kaisa\source\repos\Week7Functions\DisplayArrayElementsFunction\obj\Debug\net8.0\DisplayArrayElementsFunction.AssemblyInfo.cs
+C:\Users\kaisa\source\repos\Week7Functions\DisplayArrayElementsFunction\obj\Debug\net8.0\DisplayArrayElementsFunction.csproj.CoreCompileInputs.cache
+C:\Users\kaisa\source\repos\Week7Functions\DisplayArrayElementsFunction\obj\Debug\net8.0\DisplayArrayElementsFunction.dll
+C:\Users\kaisa\source\repos\Week7Functions\DisplayArrayElementsFunction\obj\Debug\net8.0\refint\DisplayArrayElementsFunction.dll
+C:\Users\kaisa\source\repos\Week7Functions\DisplayArrayElementsFunction\obj\Debug\net8.0\DisplayArrayElementsFunction.pdb
+C:\Users\kaisa\source\repos\Week7Functions\DisplayArrayElementsFunction\obj\Debug\net8.0\DisplayArrayElementsFunction.genruntimeconfig.cache
+C:\Users\kaisa\source\repos\Week7Functions\DisplayArrayElementsFunction\obj\Debug\net8.0\ref\DisplayArrayElementsFunction.dll
